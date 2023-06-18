@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/DeleteProductMyCartServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/LogOutServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/DeleteAccountServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/model/Cart.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/WEB-INF/web.xml</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/left.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/BuyProductServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/ManagerCategoryProductServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/AddProductServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/model/SanPham.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/footer.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/authen/update.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/homepage.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/detail.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/authen/admin.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/dao/SanPhamDAO.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/authen/menu.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/authen/left.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/DeleteCategoryServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/checkout.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/login.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/CheckOutServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/DeleteProductServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/css/styleesh.css</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/PayMentServlet.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/model/CartItem.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/web/menu.jsp</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/ShowDetailProduct.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/dao/DanhMucDAO.java</file>
+            <file>file:/D:/JavaWeb/kha/AssignmentProject/src/java/khacv/controller/LoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
