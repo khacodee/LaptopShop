@@ -30,4 +30,3 @@ Laptop-Shop là một ứng dụng web được xây dựng bằng công nghệ 
 - Cấu hình cơ s
 
 ở dữ liệu: Đảm bảo rằng bạn đã cấu hình cơ sở dữ liệu cho dự án và cung cấp các thông tin cần thiết trong file cấu hình.
-- Sử dụng IDE như... (thiếu thông tin, vui lòng cung cấp thêm chi tiết).
